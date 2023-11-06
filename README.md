@@ -43,3 +43,11 @@
 
 
 ## Projects
+**Descriptive analysis of demographic data**
+- https://github.com/Sathish-Tagore/Case-studies/tree/main/descriptive_statistics
+  
+**Hypothesis testing - Comparison of multiple distributions**
+- https://github.com/Sathish-Tagore/Case-studies/tree/main/hypothesis_testing
+
+**Regression Analysis - Linear modeling**
+- https://github.com/Sathish-Tagore/Case-studies/tree/main/regression_modelling
